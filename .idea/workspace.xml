@@ -215,7 +215,7 @@
     <property name="SearchEverywhereHistoryKey" value="sout&#9;PSI&#9;JAVA://com.sun.jndi.ldap.sasl.SaslOutputStream" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553126066417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553227828865" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../super-market" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -245,9 +245,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnumTest">
-    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.util.EnumTest" />
+  <component name="RunManager" selected="Application.CalendarTest">
+    <configuration name="CalendarTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.util.CalendarTest" />
       <module name="util" />
       <extension name="coverage">
         <pattern>
@@ -259,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.soft1841.Poker" />
-      <module name="collection-study" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.util.EnumTest" />
+      <module name="util" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.soft1841.*" />
+          <option name="PATTERN" value="com.java.util.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,14 +312,15 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Poker" />
       <item itemvalue="Application.StudentTest" />
       <item itemvalue="Application.PokerSetTest" />
       <item itemvalue="Application.StudentTest (1)" />
       <item itemvalue="Application.EnumTest" />
+      <item itemvalue="Application.CalendarTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CalendarTest" />
         <item itemvalue="Application.EnumTest" />
         <item itemvalue="Application.PokerSetTest" />
         <item itemvalue="Application.StudentTest (1)" />
