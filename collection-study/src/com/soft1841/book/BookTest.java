@@ -1,7 +1,6 @@
-package com.soft1841;
+package com.soft1841.book;
 
 import java.util.ArrayList;
-import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 

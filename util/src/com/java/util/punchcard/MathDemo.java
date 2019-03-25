@@ -1,4 +1,4 @@
-package com.java.util;
+package com.java.util.punchcard;
 
 /**
  * 关于Math类的常用运算方法

@@ -1,4 +1,4 @@
-package com.java.util;
+package com.java.util.punchcard;
 
 import javax.swing.*;
 import java.text.DateFormat;
