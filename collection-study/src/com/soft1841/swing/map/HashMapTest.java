@@ -1,4 +1,4 @@
-package com.soft1841.map;
+package com.soft1841.swing.map;
 /**
  * map接口基础练习
  * @author 杨晶

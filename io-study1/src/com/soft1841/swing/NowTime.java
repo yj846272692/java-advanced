@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.swing;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;

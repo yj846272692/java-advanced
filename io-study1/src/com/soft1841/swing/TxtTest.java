@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.swing;
 
 import java.io.File;
 import java.io.FileWriter;

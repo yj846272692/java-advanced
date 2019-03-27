@@ -1,4 +1,4 @@
-package com.soft1841.set;
+package com.soft1841.swing.set;
 
 import java.util.Iterator;
 import java.util.Set;

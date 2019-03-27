@@ -1,4 +1,4 @@
-package com.soft1841;
+package com.soft1841.swing;
 /**
  * 创建一个文件夹下带问一个文件
  * @author 杨晶

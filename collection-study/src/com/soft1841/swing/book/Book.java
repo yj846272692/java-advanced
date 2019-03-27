@@ -1,4 +1,4 @@
-package com.soft1841.book;
+package com.soft1841.swing.book;
 
 public class Book implements Comparable<Book> {
     private String name;

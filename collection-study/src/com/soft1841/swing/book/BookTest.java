@@ -1,4 +1,4 @@
-package com.soft1841.book;
+package com.soft1841.swing.book;
 
 import java.util.ArrayList;
 import java.util.Collections;

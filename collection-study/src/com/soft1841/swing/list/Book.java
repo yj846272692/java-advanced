@@ -1,4 +1,4 @@
-package com.soft1841.list;
+package com.soft1841.swing.list;
 
 public class Book {
     private Integer id;

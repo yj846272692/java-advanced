@@ -1,4 +1,4 @@
-package com.soft1841.list;
+package com.soft1841.swing.list;
 /**
  * lit接口的基础练习
  * @author 杨晶
