@@ -1,6 +1,11 @@
 package com.soft1841.swing;
+/**
+ * 简单的登陆界面
+ * @author 杨晶
+ * 2019-03-28
+ */
 
-import javafx.scene.control.ComboBox;
+
 import org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper;
 import org.jb2011.lnf.beautyeye.ch3_button.BEButtonUI;
 
