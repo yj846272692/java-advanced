@@ -1,4 +1,4 @@
-package com.soft1841.swing;
+package com.soft1841;
 /**
  * 创建一个文件夹下循环十个文件夹
  * @author 杨晶

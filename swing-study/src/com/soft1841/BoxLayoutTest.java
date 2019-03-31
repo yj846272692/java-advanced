@@ -1,7 +1,6 @@
-package com.soft1841.swing;
+package com.soft1841;
 
 import org.jb2011.lnf.beautyeye.BeautyEyeLNFHelper;
-import org.omg.CORBA.INTERNAL;
 
 import javax.swing.*;
 import java.awt.*;

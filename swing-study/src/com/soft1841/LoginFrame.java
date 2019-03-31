@@ -1,4 +1,4 @@
-package com.soft1841.swing;
+package com.soft1841;
 /**
  * 简单的登陆界面
  * @author 杨晶

@@ -1,4 +1,4 @@
-package com.soft1841.swing.poker;
+package com.soft1841.poker;
 /**
  * 集合类的练习
  * @author 杨晶 组

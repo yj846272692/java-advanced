@@ -1,4 +1,4 @@
-package com.soft1841.swing;
+package com.soft1841;
 /**
  * 创建文件
  * @author 杨晶
