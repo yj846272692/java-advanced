@@ -20,14 +20,13 @@ public class JSoupDemo2 {
         File file;
         InputStream in ;
         OutputStream out ;
-        String url = "https://bootstrapbay.com/";
+        String url = "https://www.csdn.net/";
         Connection connection  = Jsoup.connect(url);
         Document  document = connection.get();
-        Element elementDiv =document.getElementById("featured");
-        Elements elements = elementDiv.getElementsByClass("col-xs-12");
+        Elements elements = document.getElementsByClass("img_box");
         System.out.println(elements.size());
         for (Element e:elements) {
-            Element imgElement = e.child(0).child(0).child(0);
+            Element imgElement = e.child(0).child(0);
             UUID uuid = UUID.randomUUID();
             String imgName = uuid + ".jpg";
             file  = new File("D:/download/"+imgName);
